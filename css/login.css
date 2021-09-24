@@ -1,0 +1,128 @@
+.header-s {
+  height: 84px;
+  border-bottom: 2px solid #b1191a;
+  margin-bottom: 20px;
+}
+
+.header-s h1 a {
+  display: block;
+  height: 61px;
+  width: 173px;
+  background-image: url(../images/logo2.png);
+  background-repeat: no-repeat;
+  font-size: 0;
+  margin-top: 17px;
+}
+
+.register-title {
+  height: 40px;
+  line-height: 40px;
+  background-color: #ececec;
+}
+
+.register-title span {
+  font-size: 18px;
+  padding-left: 14px;
+}
+
+.register-title p {
+  float: right;
+  font-size: 14px;
+  padding-right: 14px;
+}
+
+.register {
+  height: 522px;
+  border: 2px solid #ececec;
+}
+
+.register-form {
+  width: 544px;
+  height: 369px;
+  margin: 0 auto;
+  padding-top: 55px;
+  color: #6e6e6e;
+}
+
+/* .register-form label {
+  text-align: right;
+} */
+
+.register-form .a input {
+  width: 241px;
+  height: 36px;
+  border: 1px solid #6e6e6e;
+  outline: none;
+  padding-left: 10px;
+}
+
+.register-form .a label {
+  display: inline-block;
+  width: 79px;
+  height: 30px;
+  text-align: right;
+}
+
+.register-form .a {
+  margin-bottom: 20px;
+}
+
+.error {
+  margin-left: 10px;
+  line-height: 36px;
+}
+
+.error-icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  background: url(../images/error.png) no-repeat;
+  margin-right: 5px;
+}
+
+.password {
+  display: inline-block;
+  padding-left: 155px;
+}
+
+.password em {
+  padding: 0 11px;
+}
+
+.sa {
+  background-color: greenyellow;
+}
+
+.sb {
+  background-color: orange;
+}
+
+.sc {
+  background-color: orangered;
+}
+
+/* .password-level li {
+  margin-bottom: 12px !important;
+} */
+
+.radiobox {
+  padding-left: 79px;
+  margin-bottom: 20px;
+}
+
+.button button {
+  width: 200px;
+  height: 34px;
+  background-color: #c81623;
+  border: 0;
+  color: #fff;
+}
+
+.button {
+  padding-left: 97px;
+}
+
+.footer-bottom {
+  margin-top: 25px;
+}
